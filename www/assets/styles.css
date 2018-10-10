@@ -7,16 +7,6 @@ body {
    font-family: 'Sonsie One';
 }
 
-header {
-   background-image: url("/assets/pics/bannerpicknew.jpg");
-   background-color: #cccccc;
-   background-repeat: no-repeat; /* Do not repeat the image */
-   background-size: cover;
-   height: 60vh;
-   max-width: 100%;
-   background-position: center top;
-   position: relative;
-}
 .absolut {
    position: absolute;
    left: 20px;
